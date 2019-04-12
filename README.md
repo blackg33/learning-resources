@@ -104,7 +104,7 @@ HackerYou
 ## Language/Framework/Technology Specific Resources
 [The Complete JavaScript Handbook – freeCodeCamp.org](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 
-## Important Tools
+## Tools
 [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 
 [NPM](https://www.sitepoint.com/beginners-guide-node-package-manager/)
