@@ -84,6 +84,10 @@ Meetup.com - Women Who Code
 
 HackerYou
 
+## Cheatsheets
+
+[List of cheatsheets](https://devhints.io/)
+
 ## Lists of Resources
 [GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#readme)
 
