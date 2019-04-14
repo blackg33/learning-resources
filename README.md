@@ -107,6 +107,7 @@ HackerYou
 
 ## Language/Framework/Technology Specific Resources
 [The Complete JavaScript Handbook – freeCodeCamp.org](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+[How to learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 
 ## Tools
 [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
